@@ -1,5 +1,5 @@
 {
-  "name": "@prakis/remoteobject-js",
+  "name": "remoteobjects",
   "version": "1.0.0",
   "description": "Remote Objects wrapper for JS",
   "main": "index.js",
